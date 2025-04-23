@@ -1,2 +1,3 @@
 "# Artificial-Intelligence-Game" 
-![image](https://github.com/user-attachments/assets/637420cd-0cac-474d-82e0-67bfb292471a)
+![Screenshot (334)](https://github.com/user-attachments/assets/8102935f-3626-4bb9-b8c9-9b36e5a84770)
+
